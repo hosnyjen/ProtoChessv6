@@ -1,0 +1,3 @@
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build/CMakeFiles/rebuild_cache.dir
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build/CMakeFiles/edit_cache.dir
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build/CMakeFiles/ProtoChess6.dir

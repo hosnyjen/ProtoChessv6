@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Arrow.hpp
+SFML/Graphics.hpp
+-
+bitset
+-
+vector
+-
+iostream
+-
+
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Board.hpp
+SFML/System/Vector2.hpp
+-
+Utilities.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Utilities.hpp
+bitset
+-
+vector
+-
+
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Utilities.hpp
+SFML/Graphics.hpp
+-
+iostream
+-
+
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/VisualBoard.cpp
+Board.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Board.hpp
+Utilities.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Utilities.hpp
+VisualBoard.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/VisualBoard.hpp
+cmath
+-
+iostream
+-
+
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/VisualBoard.hpp
+Utilities.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Utilities.hpp
+Arrow.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Arrow.hpp
+Board.hpp
+/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Board.hpp
+

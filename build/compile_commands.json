@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/Arrow.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Arrow.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Arrow.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/Utilities.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Utilities.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Utilities.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/Board.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Board.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Board.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/MoveFinder.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/MoveFinder.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/MoveFinder.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/CheckDetection.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/CheckDetection.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/CheckDetection.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/VisualBoard.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/VisualBoard.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/VisualBoard.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/Player.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Player.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Player.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/Game.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Game.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/Game.cpp"
+},
+{
+  "directory": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/ProtoChess6.dir/main.cpp.o -c \"/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/main.cpp\"",
+  "file": "/home/hosnyyusef/VSCode/C++/Chess 2.0/ProtoChessv6/main.cpp"
+}
+]
